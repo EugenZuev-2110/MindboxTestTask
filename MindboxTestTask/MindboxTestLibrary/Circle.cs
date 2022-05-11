@@ -17,7 +17,7 @@ namespace MindboxTestLibrary
 
         public double GetSquare()
         {
-            return Math.PI * radius;
+            return Math.PI * radius * radius;
         }
     }
 }

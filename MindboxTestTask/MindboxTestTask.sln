@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindboxTestLibrary", "Mindb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinboxConsole", "MinboxConsole\MinboxConsole.csproj", "{96591C79-98E9-4ED4-B9E9-FAC2254059C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureTest", "FigureTest\FigureTest.csproj", "{1A535CCE-46BF-49DE-9228-4E7A96F62F73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{96591C79-98E9-4ED4-B9E9-FAC2254059C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96591C79-98E9-4ED4-B9E9-FAC2254059C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96591C79-98E9-4ED4-B9E9-FAC2254059C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A535CCE-46BF-49DE-9228-4E7A96F62F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A535CCE-46BF-49DE-9228-4E7A96F62F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A535CCE-46BF-49DE-9228-4E7A96F62F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A535CCE-46BF-49DE-9228-4E7A96F62F73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
